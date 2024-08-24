@@ -1,0 +1,24 @@
+[   
+    {"type": "spawnchr", "character": "penelope", "scenemove": 5, "expression": "unsatisfied", "display": "block"},
+    {"type": "ambience", "channel": 1,"action": "play", "loop": 1,"character": "LazyTone.m4a"},
+    {"type": "spawnchr", "character": "queen", "scenemove": 0, "expression": "normal"},
+    {"type": "spawnchr", "character": "prince", "scenemove": 0, "expression": "normal"},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "1", "line1": "Ah! Você veio!"},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "1", "line1": "Mas quanto tempo!"},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "2", "line1": "Não deve se lembrar de mim, devia ter um tal de Caio, Caillou, esqueci o", "line2": "nome dele, em meu lugar..."},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "1", "line1": "Não importa!"},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "1", "line1": "O importante é que você está aqui"},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "1", "line1": "*murmurando* Então deixa eu ver..."},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "1", "line1": "*murmurando* Huh, achei que estava aqui"},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "1", "line1": "Mas então, sempre faz aniversário nesse dia?"},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "1", "line1": "Obvio que faz né, duh pergunta idiota"},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "1", "line1": "Aqui!"},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "1", "line1": "Eu queria poder falar mais, só que já tá na hora de eu ir!"},
+    {"type": "ambience", "channel": 1, "action": "stop"},
+    {"type": "chrline", "character": "Foxy Sexy Man", "noflines": "1", "line1": "AH e feliz Aniversário!"},
+    {"type": "playerchoiceyn", "text": "Abrir Presente?", "yes": 20, "no": 21},
+    {"type": "chapterend"},
+    {"type": "chrline", "character": "Sistema", "noflines": "1", "line1": "Você não tem escolha. FIM DA DEMO"},
+    {"type": "chapterend"}
+    
+]
